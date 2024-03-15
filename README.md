@@ -8,5 +8,5 @@ This is a replica of Qbert developed for nonprofit educational purposes only. Al
 - Processing sound management library.
 
 ## Commands
-To move use the keys: WASD.
-To go ahead use the key: Enter.
+- To move use the keys: WASD.
+- To go ahead use the key: Enter.
